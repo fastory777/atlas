@@ -1,0 +1,8 @@
+POST http://localhost:3000/entries
+Content-Type: application/json
+
+{
+  "title": "Test",
+  "type": "idea",
+  "body": "Hello"
+}
